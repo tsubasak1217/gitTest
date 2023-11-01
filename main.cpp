@@ -6,7 +6,7 @@ int main()
 
 	//マージしろ
 
-	//ab
+	//abc
 
 	return 0;
 }
